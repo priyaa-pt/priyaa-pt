@@ -3,7 +3,7 @@
 </div>
 
 <h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Righteous&size=35&duration=3000&pause=1000&color=9d9d9d&center=true&vCenter=true&width=600&height=70&lines=Hi+there+%F0%9F%91%8B;I'm+Priya;Nice+to+Meet+You!;Welcome+to+My+Profile!+%E2%9C%A8" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Righteous&size=35&duration=3000&pause=1000&color=9d9d9d&center=true&vCenter=true&width=600&height=70&lines=Hi+there+%F0%9F%91%8B;Priya+this+side;Nice+to+Meet+You!;Welcome+to+My+Profile! alt="Typing SVG" />
 </h1>
 
 <h3 align="center" style="color: #7d7d7d;">Data Analyst | Machine Learning Enthusiast</h3>
@@ -16,8 +16,6 @@
   <img src="https://komarev.com/ghpvc/?username=priyaa-pt&label=Profile%20Views&color=5a67d8&style=flat-square" alt="profile views" />
   <img src="https://img.shields.io/github/followers/priyaa-pt?label=Followers&style=flat-square&color=5a67d8" alt="followers" />
 </p>
-
----
 
 ▹ Passionate about **solving business problems using Data**
 
@@ -68,15 +66,15 @@
 
 ---
 
-## 📊 GitHub Analytics
+## 📊 GitHub Stats:
 
 <div align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=priyaa-pt&show_icons=true&theme=tokyonight&hide_border=true&bg_color=1a1b27&title_color=70a5fd&icon_color=bf91f3&text_color=c9d1d9&custom_title=Priya's%20GitHub%20Stats" alt="GitHub Stats" />
-  <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=priyaa-pt&theme=tokyonight&hide_border=true&background=1a1b27&stroke=70a5fd&ring=bf91f3&fire=ffc777&currStreakLabel=70a5fd" alt="GitHub Streak" />
+  <img src="https://github-readme-stats.vercel.app/api?username=priyaa-pt&show_icons=true&theme=dark&hide_border=true&bg_color=0d1117&title_color=00F5FF&icon_color=00F5FF" alt="GitHub Stats" width="48%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=priyaa-pt&theme=dark&hide_border=true&background=0d1117&stroke=00F5FF&ring=00F5FF&fire=FF6B6B" alt="GitHub Streak" width="48%" />
 </div>
 
 <div align="center">
-  <img width="60%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=priyaa-pt&layout=compact&theme=tokyonight&hide_border=true&bg_color=1a1b27&title_color=70a5fd&text_color=c9d1d9&langs_count=8" alt="Most Used Languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=priyaa-pt&layout=compact&theme=dark&hide_border=true&bg_color=0d1117&title_color=00F5FF" alt="Top Languages" width="48%" />
 </div>
 
 <div align="center">
