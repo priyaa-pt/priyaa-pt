@@ -3,7 +3,7 @@
 </div>
 
 <h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Righteous&size=35&duration=3000&pause=1000&color=667eea&center=true&vCenter=true&width=600&height=70&lines=Hi+there+%F0%9F%91%8B;I'm+Priya;Data+Scientist+%7C+Analyst;ML+Enthusiast+%F0%9F%A4%96;Let's+Turn+Data+into+Gold!+%F0%9F%92%8E" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Righteous&size=35&duration=3000&pause=1000&color=667eea&center=true&vCenter=true&width=600&height=70&lines=Hi+there+%F0%9F%91%8B;Priya+this+side;Data+Analyst+%7C+ML+Enthusiast+%F0%9F%A4%96;Let's+Turn+Data+into+Gold!+%F0%9F%92%8E" alt="Typing SVG" />
 </h1>
 
 <h3 align="center" style="color: #7d7d7d;">Data Analyst | Machine Learning Enthusiast</h3>
